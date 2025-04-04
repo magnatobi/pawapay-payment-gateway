@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6QEbHSktdN9Q/0f1thZaQMCOZsqALUnmUT1UmSnLcCA=",
+  "Source": "PawaPayGateway",
+  "BasePath": "_content/PawaPayGateway",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

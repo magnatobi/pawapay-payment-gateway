@@ -1,0 +1,15 @@
+C:\Users\Oluwatobi Olotu\source\repos\dotnet\Others\pawapay-payment-gateway\PawaPayGateway\obj\Debug\net7.0\PubTmp\Out\PawaPayGateway.exe
+C:\Users\Oluwatobi Olotu\source\repos\dotnet\Others\pawapay-payment-gateway\PawaPayGateway\obj\Debug\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Oluwatobi Olotu\source\repos\dotnet\Others\pawapay-payment-gateway\PawaPayGateway\obj\Debug\net7.0\PubTmp\Out\appsettings.json
+C:\Users\Oluwatobi Olotu\source\repos\dotnet\Others\pawapay-payment-gateway\PawaPayGateway\obj\Debug\net7.0\PubTmp\Out\PawaPayGateway.dll
+C:\Users\Oluwatobi Olotu\source\repos\dotnet\Others\pawapay-payment-gateway\PawaPayGateway\obj\Debug\net7.0\PubTmp\Out\PawaPayGateway.deps.json
+C:\Users\Oluwatobi Olotu\source\repos\dotnet\Others\pawapay-payment-gateway\PawaPayGateway\obj\Debug\net7.0\PubTmp\Out\PawaPayGateway.runtimeconfig.json
+C:\Users\Oluwatobi Olotu\source\repos\dotnet\Others\pawapay-payment-gateway\PawaPayGateway\obj\Debug\net7.0\PubTmp\Out\PawaPayGateway.pdb
+C:\Users\Oluwatobi Olotu\source\repos\dotnet\Others\pawapay-payment-gateway\PawaPayGateway\obj\Debug\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Oluwatobi Olotu\source\repos\dotnet\Others\pawapay-payment-gateway\PawaPayGateway\obj\Debug\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\Oluwatobi Olotu\source\repos\dotnet\Others\pawapay-payment-gateway\PawaPayGateway\obj\Debug\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Oluwatobi Olotu\source\repos\dotnet\Others\pawapay-payment-gateway\PawaPayGateway\obj\Debug\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Oluwatobi Olotu\source\repos\dotnet\Others\pawapay-payment-gateway\PawaPayGateway\obj\Debug\net7.0\PubTmp\Out\RestSharp.dll
+C:\Users\Oluwatobi Olotu\source\repos\dotnet\Others\pawapay-payment-gateway\PawaPayGateway\obj\Debug\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Oluwatobi Olotu\source\repos\dotnet\Others\pawapay-payment-gateway\PawaPayGateway\obj\Debug\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Oluwatobi Olotu\source\repos\dotnet\Others\pawapay-payment-gateway\PawaPayGateway\obj\Debug\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
